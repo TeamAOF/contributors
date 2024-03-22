@@ -21,7 +21,6 @@ Snouwuflake
 VirlesFelyard
 ZeeIzanami
 Owlwix
-Lord_Ceryni
 Dillibert
 Natanalel
 Pdrewicz
